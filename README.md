@@ -8,7 +8,7 @@ A Three- Dimensional Teapot Viewer made using Java 3D APIs.
 
 ## Interpreting the Data Files
 Each of the 8 data (.dat) files represent a portion of the complete teapot, which are as follows:-
-* tpot1.dat - Body parhttps://github.com/animesh-kumar/ThreeDimensionalTeapotInJava/new/master?readme=1#t 1
+* tpot1.dat - Body part 1
 * tpot2.dat - Body part 2
 * tpot3.dat - Body part 3
 * tpot4.dat - Handle 
